@@ -1,6 +1,3 @@
-<!--
-**OC35-stack/OC35-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Oliver Chappell
 
 ## 31 year old deaf man with experience in Python and Javascript.
