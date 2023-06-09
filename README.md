@@ -1,6 +1,6 @@
 # Oliver Chappell
 
-## 31 year old deaf man with experience in Python and Javascript.
+## 31 year old deaf male with experience in Python and Javascript.
 
 I’m currently working on a game with my best friend called Prince Arthur: Monsters of Albion.
 
